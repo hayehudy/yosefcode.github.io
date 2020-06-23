@@ -1,6 +1,6 @@
 var slider = new KeenSlider("#my-keen-slider", {
-  spacing: 20,
-  slidesPerView: 5,
+  spacing: 10,
+  slidesPerView: 2,
   centered: true,
   vertical: true,
   loop: true,
